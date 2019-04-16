@@ -5,4 +5,4 @@ This code uses the a subset of the MovieLens dataset for building the recommende
 The dataset is available at https://grouplens.org/datasets/movielens/
 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
